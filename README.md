@@ -1,26 +1,41 @@
-# C++ Projects
-Tutorials / Projects For C++
----
-Hi, I'm Jacob,
-Follow me for coding Tutorials / Projects.\
-If you have any project ideas or suggestions please contact me at jpwaters.github@gmail.com \
-Follow my Github: https://github.com/jpwaters09 \
-Join my discord server: https://discord.gg/289Ff2GQ
+<div align="center">
+  <h1>C++ Projects</h1>
+  <p>Tutorials / Projects For C++</p>
+</div>
 
-## C++ Projects:
-- [Computer Quiz](https://github.com/Jpwaters09/CPP-Projects/tree/main/Computer%20Quiz)
+##
 
-## Repositories:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" alt="C++ Logo" />
+</div>
 
-<a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects"><img src="https://img.shields.io/badge/Raspberry%20Pi%20Projects-Raspberry%20Pi%20Projects?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Raspberry Pi Projects" height="30" /></a>
-<a href="https://github.com/Jpwaters09/HTML-Projects"><img src="https://img.shields.io/badge/HTML%20Projects-HTML%20Projects?logo=HTML5&logoColor=white&labelColor=%23E34F26&color=grey" alt="HTML Projects" height="30"/></a>
-<a href="https://github.com/Jpwaters09/Python-Projects"><img src="https://img.shields.io/badge/Python%20Projects-Python%20Projects?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Python Projects" height="30"/></a>
-<a href="https://github.com/Jpwaters09/CPP-Projects"><img src="https://img.shields.io/badge/C++%20Projects-C++%20Projects?logo=C%2B%2B&logoColor=white&labelColor=%2300599C&color=grey" alt="C++ Projects" height="30"/></a>
-<a href="https://github.com/Jpwaters09/Comment-Remover"><img src="https://img.shields.io/badge/Comment%20Remover-Comment%20Remover?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Comment Remover" height="30"/></a>
+##
 
-## Socials:
+<div align="center">
+  <h3>C++ Projects:</h3>
+  <a href="https://github.com/Jpwaters09/CPP-Projects/tree/main/Computer%20Quiz"><img src="https://img.shields.io/badge/Computer%20Quiz-Computer%20Quiz?logo=C%2B%2B&logoColor=white&labelColor=00599C&color=grey" alt="Computer Quiz" height="30"/></a>
+</div>
 
-<a href="mailto:jpwaters.github@gmail.com"><img margin-right="10px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"/></a>
-<a href="https://discord.com/invite/76dFqekSXz"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"/></a>
-<a href="https://paypal.me/JacobW120"><img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="40" alt="paypal logo"/></a>
-<a href="https://github.com/jpwaters09"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="40" alt="paypal logo"/></a>
+##
+
+<div align="center">
+  <h3>Repositories:</h3>
+
+  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects"><img src="https://img.shields.io/badge/Raspberry%20Pi%20Projects-Raspberry%20Pi%20Projects?logo=python&logoColor=white&labelColor=3776AB&color=grey" alt="Raspberry Pi Projects" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/HTML-Projects"><img src="https://img.shields.io/badge/HTML%20Projects-HTML%20Projects?logo=HTML5&logoColor=white&labelColor=E34F26&color=grey" alt="HTML Projects" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/Python-Projects"><img src="https://img.shields.io/badge/Python%20Projects-Python%20Projects?logo=python&logoColor=white&labelColor=3776AB&color=grey" alt="Python Projects" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/CPP-Projects"><img src="https://img.shields.io/badge/C++%20Projects-C++%20Projects?logo=C%2B%2B&logoColor=white&labelColor=00599C&color=grey" alt="C++ Projects" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/Comment-Remover"><img src="https://img.shields.io/badge/Comment%20Remover-Comment%20Remover?logo=python&logoColor=white&labelColor=3776AB&color=grey" alt="Comment Remover" height="30"/></a>
+</div>
+
+##
+
+<div align="center">
+  <h3>Socials:</h3>
+  
+  <a href="mailto:jpwaters.github@gmail.com"><img margin-right="10px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="40" alt="Gmail Logo"/></a>
+  <a href="https://discord.com/invite/76dFqekSXz"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat" height="40" alt="Discord Logo"/></a>
+  <a href="https://patreon.com/Jpwaters09"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=flat" height="40" alt="Patreon Logo"/></a>
+  <a href="https://paypal.me/JacobW120"><img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&style=flat" height="40" alt="PayPal Logo"/></a>
+  <a href="https://github.com/jpwaters09"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=flat" height="40" alt="GitHub Logo"/></a>
+</div>
