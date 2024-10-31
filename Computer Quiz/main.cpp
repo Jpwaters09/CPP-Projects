@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////
 // Computer Quiz                              //
-// Language: JavaScript                       //
+// Language: C++                              //
 // Author: Jacob Waters                       //
 // Github: github.com/jpwaters09              //
 // Copyright (c) 2024 Jacob Waters            //
