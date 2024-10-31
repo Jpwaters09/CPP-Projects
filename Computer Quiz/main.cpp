@@ -23,7 +23,7 @@ void sleep(int seconds) {
     sleep_for(chrono::seconds(seconds));
 }
 
-int main() {
+void main() {
     clear();
     cout << "Computer Quiz:" << endl;
     sleep(2);
