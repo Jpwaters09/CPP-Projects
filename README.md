@@ -14,7 +14,8 @@
 <div align="center">
   <h3>C++ Projects:</h3>
   <a href="https://github.com/Jpwaters09/CPP-Projects/tree/main/Computer%20Quiz"><img src="https://img.shields.io/badge/Computer%20Quiz-Computer%20Quiz?logo=C%2B%2B&logoColor=white&labelColor=00599C&color=grey" alt="Computer Quiz" height="30"/></a>
-  <a href="https://www.patreon.com/posts/early-access-in-115105156?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"><img src="https://img.shields.io/badge/Click%20To%20See%20An%20Upcoming%20Project-Click%20To%20See%20An%20Upcoming%20Project?logo=patreon&logoColor=white&labelColor=000000&color=grey" alt="Click To See An Upcoming Project" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/CPP-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors"><img src="https://img.shields.io/badge/Rock%2C%20Paper%2C%20Scissors-Rock%2C%20Paper%2C%20Scissors?logo=C%2B%2B&logoColor=white&labelColor=00599C&color=grey" alt="Rock, Paper, Scissors" height="30"/></a>
+  <!--<a href="https://www.patreon.com/posts/early-access-in-115105156?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"><img src="https://img.shields.io/badge/Click%20To%20See%20An%20Upcoming%20Project-Click%20To%20See%20An%20Upcoming%20Project?logo=patreon&logoColor=white&labelColor=000000&color=grey" alt="Click To See An Upcoming Project" height="30"/></a>-->
 </div>
 
 ##
