@@ -9,5 +9,6 @@
 2. Select 'Create a new project'.
 3. Select 'Empty Project' (C++).
 4. In the 'Solution Explorer' right click on 'Source Files', hover over 'Add' then select 'New Item...'.
-5. Copy the [main.cpp](main.cpp) file from my GitHub and paste it in the file you have just created.
-6. Compile then run the program.
+5. Select 'C++ File (.cpp)' and name it 'main.cpp' then click 'Add'.
+6. Copy the [main.cpp](main.cpp) file from my GitHub and paste it in the file you have just created.
+7. Compile then run the program.
