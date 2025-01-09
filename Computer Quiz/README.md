@@ -2,7 +2,7 @@
 
 ### Run using the executable file:
 1. Download the executable file here: [Computer Quiz.exe](Computer%20Quiz.exe).
-2. Double click on the Computer Quiz.exe file to run the program.
+2. Double click on the 'Computer Quiz.exe' file to run the program.
 
 ### Compile yourself:
 1. Open Visual Studio.
